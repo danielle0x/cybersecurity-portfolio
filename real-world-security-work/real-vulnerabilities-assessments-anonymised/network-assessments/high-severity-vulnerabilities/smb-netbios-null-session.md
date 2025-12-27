@@ -98,5 +98,6 @@ Screenshot demonstrating the vulnerability is provided below:
 
 
 
-* [Overview](evidence/SMB-NETBIOS-NULL-session/Description.png)
+* [Overview](./evidence/smb-netbios-null-session/description.png)
+
 
