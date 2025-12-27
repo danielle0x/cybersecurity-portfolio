@@ -25,13 +25,13 @@ Each incident includes:
 
 ### **Incident list:**
 
-* [Case 1 - Credential Dumping Attempt](./Credential-dumping-assessment)
+* [Case 1 - Credential Dumping Attempt](./credential-dumping-assessment)
 
-* [Case 2 - Macro-enabled Document](./Macro-enabled-document-assessment)
+* [Case 2 - Macro-enabled Document](./macro-enabled-document-assessment)
 
-* [Case 3 - Scheduled Task For Persistence](./Scheduled-task-for-persistence-assessment)
+* [Case 3 - Scheduled Task For Persistence](./scheduled-task-for-persistence-assessment)
 
-* [Case 4 - Suspicious Outbound Connection](./Suspicious-outbound-connection-assessment)
+* [Case 4 - Suspicious Outbound Connection](./suspicious-outbound-connection-assessment)
 
 ---
 
