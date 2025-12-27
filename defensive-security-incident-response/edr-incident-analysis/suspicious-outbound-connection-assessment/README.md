@@ -30,5 +30,5 @@ Based on process execution, location, and network activity, this alert was asses
 
 
 
-* [Process chain](./Process-chain.png)
+* [Process chain](./process-chain.png)
 
