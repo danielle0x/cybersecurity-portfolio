@@ -30,5 +30,5 @@ Based on the process chain, command-line activity, and associated indicators, th
 
 
 
-* [Process chain](./Process-chain.png)
+* [Process chain](./process-chain.png)
 
