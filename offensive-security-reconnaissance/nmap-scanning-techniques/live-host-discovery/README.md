@@ -60,7 +60,7 @@ Used to quickly identify which hosts are online within the target network.
 
 
 
-As shown in the [scan output](./Scan-output.png), here's the **result summary:**
+As shown in the [scan output](./scan-output.png), here's the **result summary:**
 
 * Several hosts (**16**) were detected as online
 
