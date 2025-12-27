@@ -14,7 +14,7 @@ The downloaded file (install.exe) was written to the **Public directory** but wa
 
 
 
-The alert was mapped to [MITRE ATT\&CK Initial Access** – T1566.001](https://attack.mitre.org/techniques/T1566/001/) (Spearphishing Attachment) with a high confidence score. The EDR successfully **quarantined the dropped payload and blocked the external domain**, preventing further impact.
+The alert was mapped to [MITRE ATT\&CK Initial Access – T1566.001](https://attack.mitre.org/techniques/T1566/001/) (Spearphishing Attachment) with a high confidence score. The EDR successfully **quarantined the dropped payload and blocked the external domain**, preventing further impact.
 
 ---
 
