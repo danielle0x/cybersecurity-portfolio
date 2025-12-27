@@ -30,5 +30,5 @@ Based on the observed process chain, memory access, and attempted network activi
 
 
 
-* [Process chain](./Process-chain.png)
+* [Process chain](./process-chain.png)
 
