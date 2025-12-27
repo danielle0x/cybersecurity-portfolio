@@ -14,7 +14,7 @@ Although syncsvc.exe is unsigned and the behaviour is suspicious, the involved s
 
 
 
-The alert was mapped to **MITRE ATT\&CK Persistence – T1003.002** (Credential Dumping) with a high confidence score. The EDR successfully **blocked the network exfiltration and quarantined the malicious file**, preventing further impact.
+The alert was mapped to [MITRE ATT\&CK Persistence – T1003.002](https://attack.mitre.org/techniques/T1003/002/) (Credential Dumping) with a high confidence score. The EDR successfully **blocked the network exfiltration and quarantined the malicious file**, preventing further impact.
 
 ---
 
