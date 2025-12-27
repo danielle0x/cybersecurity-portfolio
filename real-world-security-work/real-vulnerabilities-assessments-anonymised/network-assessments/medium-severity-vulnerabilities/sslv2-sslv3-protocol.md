@@ -96,4 +96,5 @@ Screenshot demonstrating the vulnerability is provided below:
 
 
 
-* [Overview](evidence/SSLv2-SSLv3-Protocol/Description.png)
+* [Overview](./evidence/sslv2-sslv3-protocol/description.png)
+
