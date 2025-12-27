@@ -10,8 +10,8 @@ All sensitive information (company names, usernames, endpoints, IPs) has been **
 
 ### **Incident Cases**
 
-* [Incident 1 – Suspicious Malware Execution](./Incident-malware-report-393.md)
-* [Incident 2 – Phishing Domain Detection](./Incident-phishing-report-28.md)
+* [Incident 1 – Suspicious Malware Execution](./incident-malware-report-393.md)
+* [Incident 2 – Phishing Domain Detection](./incident-phishing-report-28.md)
 
 ---
 ### **Purpose** 
