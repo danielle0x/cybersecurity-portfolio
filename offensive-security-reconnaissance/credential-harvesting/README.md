@@ -139,7 +139,7 @@ This confirms the effectiveness of **social engineering attacks** when users tru
 
 
 
-* [captured credentials output](./Output.png)
+* [captured credentials output](./output.png)
 
 
 ---
