@@ -100,5 +100,6 @@ Screenshot demonstrating the vulnerability is provided below:
 
 
 
-* [Overview](evidence/Vulnerable-HTTPS-Cipher-Suites/Description.png)
+* [Overview](./evidence/vulnerable-https-cipher-Suites/description.png)
+
 
