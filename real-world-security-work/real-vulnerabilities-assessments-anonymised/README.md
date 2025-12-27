@@ -19,6 +19,13 @@ Sensitive information (IP addresses, domains, hostnames, credentials, and other 
 
 ---
 
+### **Assessment Areas**
+
+* [Network Assessments](./network-assessments)
+* [Web Application Assessments](./web-assessments)
+
+  
+---
 
 ### **Tool Used**
 
