@@ -88,7 +88,8 @@ Screenshot demonstrating the vulnerability is provided below:
 
 
 
-* [Overview](evidence/X-frame-not-set/Description-mitigation.png)
+* [Overview](./evidence/x-frame-not-set/description-mitigation.png)
+
 
 
 
