@@ -96,7 +96,7 @@ Screenshot demonstrating the vulnerability is provided below:
 
 
 
-* [Overview](evidence/Weak-key-exchange-SSH/Description.png)
+* [Overview](./evidence/weak-key-exchange-ssh/description.png)
 
 ---
 
@@ -113,4 +113,5 @@ Screenshot demonstrating the vulnerability is provided below:
 * [https://www.rfc-editor.org/rfc/rfc6194](https://www.rfc-editor.org/rfc/rfc6194)
 
 * [https://www.rfc-editor.org/rfc/rfc4253#section-6.5](https://www.rfc-editor.org/rfc/rfc4253#section-6.5)
+
 
