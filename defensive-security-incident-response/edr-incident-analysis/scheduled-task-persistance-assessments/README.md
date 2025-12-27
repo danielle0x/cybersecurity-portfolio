@@ -30,5 +30,5 @@ Based on process execution, file location, and task creation, this alert was ass
 
 
 
-* [Process chain](./Process-chain.png)
+* [Process chain](./process-chain.png)
 
