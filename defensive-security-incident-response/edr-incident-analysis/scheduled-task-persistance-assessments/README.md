@@ -14,7 +14,7 @@ Scheduled tasks are frequently leveraged by attackers to maintain long-term acce
 
 
 
-The alert was mapped to **MITRE ATT\&CK Persistence – T1053.005 (Scheduled Task)** to classify the observed behaviour. The technique indicates the type of suspicious activity but does not automatically imply a confirmed attack.
+The alert was mapped to [MITRE ATT\&CK Persistence – T1053.005](https://attack.mitre.org/techniques/T1053/005/) (Scheduled Task) to classify the observed behaviour. The technique indicates the type of suspicious activity but does not automatically imply a confirmed attack.
 
 ---
 
