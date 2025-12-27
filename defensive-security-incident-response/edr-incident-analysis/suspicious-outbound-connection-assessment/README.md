@@ -14,7 +14,7 @@ Although the binary was unsigned, it is a **legitimate internal IT utility**, an
 
 
 
-The alert was associated with **MITRE ATT\&CK Execution – T1204.002 (User Execution: Malicious File)** to classify the observed behaviour. The technique indicates the type of activity, not that it is an actual attack. The EDR logged the activity and marked the indicators as safe, preventing any potential impact.
+The alert was associated with [MITRE ATT\&CK Execution – T1204.002](https://attack.mitre.org/techniques/T1204/002/) (User Execution: Malicious File) to classify the observed behaviour. The technique indicates the type of activity, not that it is an actual attack. The EDR logged the activity and marked the indicators as safe, preventing any potential impact.
 
 ---
 
