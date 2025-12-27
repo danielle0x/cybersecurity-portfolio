@@ -107,7 +107,7 @@ Screenshot demonstrating the vulnerability is provided below:
 
 
 
-* [Overview](./evidence/sql-inejction/description.png)
+* [Overview](./evidence/sql-injection/description.png)
 
 ---
 
@@ -118,4 +118,5 @@ Screenshot demonstrating the vulnerability is provided below:
 * [https://www.owasp.org/index.php/Top\_10\_2010-A1](https://www.owasp.org/index.php/Top_10_2010-A1)
 
 * [https://www.owasp.org/index.php/SQL\_Injection\_Prevention\_Cheat\_Sheet](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet)
+
 
