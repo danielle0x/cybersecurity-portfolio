@@ -106,5 +106,6 @@ Recommended actions to remediate this vulnerability:
 
 Screenshot demonstrating the vulnerability is provided below:
 
-* [Overview](evidence/TLSv1.0-TLSv1.1-protocol/Description.png)
+* [Overview](./evidence/tlsv1.0-tlsv1.1-protocol/description.png)
+
 
