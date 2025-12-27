@@ -92,19 +92,19 @@ URL.Phishing (2 alerts)
 
 
 
-**T1566** - Initial Access
+[T1566](https://attack.mitre.org/techniques/T1566/) - Phishing
 
 
 
-**T1566.002** - Initial Access 
+[T1566.002](https://attack.mitre.org/techniques/T1566/002/) - Spearphishing Link
 
 
 
-**T1204 User** - Execution
+[T1204 User](https://attack.mitre.org/techniques/T1204/) - User Execution
 
 
 
-**T1204.001** - Execution
+[T1204.001](https://attack.mitre.org/techniques/T1204/001/) - User Execution: Malicious Link
 
 
 
@@ -153,4 +153,5 @@ Access to the malicious site was **blocked**.
 
 
 Danielle (L1 SOC Analyst)
+
 
