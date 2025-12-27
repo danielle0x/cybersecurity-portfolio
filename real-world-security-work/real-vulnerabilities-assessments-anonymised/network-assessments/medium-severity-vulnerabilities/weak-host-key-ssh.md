@@ -84,7 +84,7 @@ Screenshot demonstrating the vulnerability is provided below:
 
 
 
-* [Overview](evidence/Weak-host-key-SSH/Description.png)
+* [Overview](./evidence/weak-host-key-ssh/description.png)
 
 ---
 
@@ -97,4 +97,5 @@ Screenshot demonstrating the vulnerability is provided below:
 * [https://www.rfc-editor.org/rfc/rfc8709](https://www.rfc-editor.org/rfc/rfc8709)
 
 * [https://www.rfc-editor.org/rfc/rfc4253#section-6.6](https://www.rfc-editor.org/rfc/rfc4253#section-6.6)
+
 
