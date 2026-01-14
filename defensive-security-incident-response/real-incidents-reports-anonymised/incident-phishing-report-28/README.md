@@ -76,7 +76,7 @@ The following indicators confirm the malicious nature of the connection attempt:
 
 ● **VirusTotal Analysis:** [View Report](https://www.virustotal.com/gui/domain/tsmtphit.com)
 
-● **Detection Ratio:** 11/93 (Phishing/Malicious)
+● **Detection Ratio:** 14/93 (Phishing/Malicious)
 
 ● [Virus total screenshot here](./virustotal-screenshot.png): VirusTotal scan results confirming the malicious reputation of the domain.
 
