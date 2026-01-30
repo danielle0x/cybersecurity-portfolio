@@ -58,7 +58,7 @@ This repository demonstrates my hands-on experience in cybersecurity, covering d
 
 
 
-* [Real Vulnerabilities Assessment (Anonymised)](./real-world-security-work/real-vulnerabilities-assessments-anonymised) –  Professionally conducted vulnerability assessments.
+* [Vulnerabilities Assessments (Anonymised)](./real-world-security-work/real-vulnerabilities-assessments-anonymised) –  Professionally conducted vulnerability assessments.
 
 
 
@@ -101,5 +101,6 @@ Email: my.email@example.com
 
 
 LinkedIn: linkedin.com/in/myprofile
+
 
 
