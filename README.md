@@ -54,7 +54,7 @@ This repository demonstrates my hands-on experience in cybersecurity, covering d
 
 
 
-### **4. Real-World Security Work**
+### **4. Vulnerability Management**
 
 
 
@@ -101,4 +101,5 @@ Email: my.email@example.com
 
 
 LinkedIn: linkedin.com/in/myprofile
+
 
