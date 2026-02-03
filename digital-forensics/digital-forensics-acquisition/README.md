@@ -10,7 +10,7 @@ To perform forensically sound acquisitions of a removable storage device (USB dr
 
 ### **Technical Environment**
 
-* **Tool:** AccessData FTK Imager and HashMyFiles
+* **Tool:** AccessData FTK Imager and Hardware USB Write Blocker
 
 
 
@@ -34,7 +34,7 @@ To perform forensically sound acquisitions of a removable storage device (USB dr
 
 
 
-* FTK Imager was utilised, leveraging its **read-only functionality** to ensure that no write commands were executed on the source media during the imaging process, maintaining the **integrity of the evidence.**
+* FTK Imager was utilised in conjunction witha portable Hardware USB Write Blocker to ensure that no write commands were executed on the source media during the imaging process, maintaining the **integrity of the evidence.**
 
 
 
@@ -57,15 +57,15 @@ Acquisitions were performed for both the entire device and the active file struc
 After acquisition, a crucial integrity check was performed to verify the authenticity of the captured image files against the source media.
 
 
-
-* **Hashing Algorithm:** Generated multiple industry-standard hash values for verification, including MD5, SHA1, SHA-256, and SHA-512, for both the source drive and the created image files (Physical and Logical).
-* **Result:** The hash values of the source and the images matched, proving the integrity and non-tampering of the evidence.
+* **Verification Process:** FTK Imager's built-in verification engine calculated the Computed Hash from the source data and compared it against the Reported Hash of the forensic images.
+* **Hashing Algorithm:** MD5 and SHA1 checksums were generated and verified.
+* **Result:** The hash values of the source and the images matched, proving the integrity and non-tampering of the evidence during the entire lifecycle.
 
 ---
 
-### **Final Deliverables and Proof of Integrity**
+### **Final Deliverables**
 
-The successful execution resulted in verified, forensically sound image files, ready for detailed analysis.
+A comprehensive inventory of all generated forensic files with multi-algorithm hash digests was created, ready for detailed analysis.
 
 * [HashMyFiles Report Here](./HashList.html)
 
