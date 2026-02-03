@@ -46,7 +46,7 @@ This repository demonstrates my hands-on experience in cybersecurity, covering d
 
 
 
-* [Credential Harvesting](./offensive-security-reconnaissance/credential-harvesting) – Simulated attacks to understand credential-based risks using SET(Social Engineering Toolkit).
+* [Credential Harvesting](./offensive-security-reconnaissance/credential-harvesting) – Simulated attack to understand credential-based risks using SET(Social Engineering Toolkit).
 
 
 
@@ -101,6 +101,7 @@ I am open to opportunities in cybersecurity and welcome professional connections
 
 
 🔗 LinkedIn: [linkedin.com/in/danielle-ciccarello-61509a3aa](https://www.linkedin.com/in/danielle-ciccarello-61509a3aa)
+
 
 
 
