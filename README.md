@@ -81,8 +81,7 @@ This repository demonstrates my hands-on experience in cybersecurity, covering d
 
 
 ## **About This Repository**
-
-###### 
+ 
 
 This portfolio contains practical exercises and reports designed to demonstrate real-world cybersecurity skills. All sensitive data is anonymised; no personal or confidential information is included.
 
@@ -101,6 +100,7 @@ I am open to opportunities in cybersecurity and welcome professional connections
 
 
 🔗 LinkedIn: [linkedin.com/in/danielle-ciccarello-61509a3aa](https://www.linkedin.com/in/danielle-ciccarello-61509a3aa)
+
 
 
 
