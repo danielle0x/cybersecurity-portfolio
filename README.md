@@ -92,15 +92,16 @@ This portfolio contains practical exercises and reports designed to demonstrate 
 
 
 
-I am seeking opportunities in cybersecurity and am open to job offers.
+I am open to opportunities in cybersecurity and welcome professional connections.
 
 
 
-Email: my.email@example.com
+📧 Email: danielle.ciccarello.contact@gmail.com
 
 
 
-LinkedIn: linkedin.com/in/myprofile
+🔗 LinkedIn: [linkedin.com/in/danielle-ciccarello-61509a3aa](https://www.linkedin.com/in/danielle-ciccarello-61509a3aa)
+
 
 
 
