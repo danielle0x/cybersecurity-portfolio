@@ -22,7 +22,7 @@ This repository demonstrates my hands-on experience in cybersecurity, covering d
 
 
 
-* [Real Incidents Reports (Anonymised)](./defensive-security-incident-response/real-incidents-reports-anonymised) – Professionally documented real security incidents using Bitdefender GravityZone for data collection.
+* [Real Incidents Reports (Anonymised)](./defensive-security-incident-response/incidents-reports-anonymised) – Professionally documented real security incidents using Bitdefender GravityZone for data collection.
 
 
 
@@ -100,6 +100,7 @@ I am open to opportunities in cybersecurity and welcome professional connections
 
 
 🔗 LinkedIn: [linkedin.com/in/danielle-ciccarello-61509a3aa](https://www.linkedin.com/in/danielle-ciccarello-61509a3aa)
+
 
 
 
