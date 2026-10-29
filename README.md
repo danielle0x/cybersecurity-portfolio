@@ -26,7 +26,7 @@ This repository demonstrates my hands-on experience in cybersecurity, covering d
 
 
 
-* [Real Incident Reports (Anonymised)](./defensive-security-incident-response/incidents-reports-anonymised) – Professionally documented real security incidents using Bitdefender GravityZone for data collection.
+* [Real Incident Reports (Anonymised)](./defensive-security-incident-response/incident-reports-anonymised) – Professionally documented real security incidents using Bitdefender GravityZone for data collection.
 
 
 
@@ -66,7 +66,7 @@ This repository demonstrates my hands-on experience in cybersecurity, covering d
 
 
 
-* [Vulnerability Assessments (Anonymised)](./vulnerability-managment/vulnerability-assessments-anonymised/) –  Professionally conducted vulnerability assessments.
+* [Vulnerability Assessments (Anonymised)](./vulnerability-management/vulnerability-assessments-anonymised/) –  Professionally conducted vulnerability assessments.
 
 
 
