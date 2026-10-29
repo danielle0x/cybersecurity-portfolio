@@ -19,10 +19,18 @@ This repository demonstrates my hands-on experience in cybersecurity, covering d
 
 
 * [Splunk Log Analysis](./defensive-security-incident-response/splunk-log-analysis) – Log monitoring and threat detection.
+  
+
+
+* [Event Viewer Log Analysis](./defensive-security-incident-response/event-viewer-log-analysis) - Initial Access & Event Log Auditing.
 
 
 
-* [Real Incidents Reports (Anonymised)](./defensive-security-incident-response/incidents-reports-anonymised) – Professionally documented real security incidents using Bitdefender GravityZone for data collection.
+* [Real Incident Reports (Anonymised)](./defensive-security-incident-response/incidents-reports-anonymised) – Professionally documented real security incidents using Bitdefender GravityZone for data collection.
+
+
+
+* [Windows Incident Reponse](./defensive-security-incident-response/windows-incident-response-nist) - NIST Incident Response Lifecycle Implementation.
 
 
 
@@ -74,6 +82,10 @@ This repository demonstrates my hands-on experience in cybersecurity, covering d
 
 
 
+* [Snort IDS/IPS & Traffic Analysis](./system-network-security/snort-ids-ips-traffic-analysis) - Network intrusion detection and prevention.
+  
+
+
 * [WiFi Security Evaluation](./system-network-security/wifi-security-evaluation) – Assessing WiFi authentication security.
 
 
@@ -91,7 +103,7 @@ This portfolio contains practical exercises and reports designed to demonstrate 
 
 
 
-I am open to opportunities in cybersecurity and welcome professional connections.
+Whether you are looking to hire a security professional, discuss a project, or just connect, feel free to reach out!
 
 
 
